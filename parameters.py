@@ -1,0 +1,24 @@
+########## Color Palette ##########
+BACKGROUND_COLOR = "#f0decb"
+SNAKE_HEAD_COLOR = "#83b582"
+SNAKE_BODY_COLOR = "#d6e4aa"
+BORDER_COLOR = "#f0dd92"
+SCORE_COLOR = "#f0decb"
+FOOD_COLOR = "#ce2e6c"
+
+########## Play field parameters ##########
+SCREEN_WIDTH = 840
+SCREEN_HEIGHT = 600
+GAME_FIELD_LINE_LOCATION = 200
+
+UPPER_LOWER_BORDER_WIDTH = SCREEN_WIDTH / 20
+UPPER_LOWER_BORDER_HEIGHT = 1
+LEFT_RIGHT_BORDER_WIDTH = 1
+LEFT_RIGHT_BORDER_HEIGHT = SCREEN_HEIGHT / 20
+
+########## Parameters ##########
+ORIGIN = 0
+STARTX = 0
+STARTY = 0
+BLOCK_WIDTH = 20
+SQUARE = "square"
